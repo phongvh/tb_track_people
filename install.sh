@@ -1,4 +1,4 @@
-#!/bash/sh
+#!/bin/sh
 
 echo "Installing required packages"
 apt update
